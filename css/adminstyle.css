@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-family: 'Quintessential', cursive;
+    /* font-size: 2em; */
+    font-weight: bold;
+    color: black !important;
+}
+.text-black{
+    font-weight: lighter;
+}
+.box {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+}
